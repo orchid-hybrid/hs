@@ -1,0 +1,2 @@
+id = s k k
+main = id (id 3)
